@@ -11,5 +11,4 @@
 6. What do you understand about default parameters?
 7. What are template literals in ES6?
 8. Tell us the difference between arrow and regular function.
-
  */
