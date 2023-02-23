@@ -7,4 +7,12 @@
 // input: array function
 
 const numbers = [2, 3, 4, 5];
-// a)
+// a) Square each array element.
+const square = numbers.map(x => x * x);
+console.log(square);
+
+// b) Calculate the sum of the Square elements.
+let sum = 0;
+const getSum = square.forEach(x => {
+    
+})
